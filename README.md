@@ -2,7 +2,7 @@
 
 **INFO 6105: Data Science Engineering Methods and Tools**  
 Jayanth Adithya Kappagantula | NUID: 002304901  
-Section 37196 (Saturday) | Spring 2026 | Northeastern University
+Section 37196 (Tuesday) | Spring 2026 | Northeastern University
 
 ---
 
